@@ -5,7 +5,8 @@ I'm a passionate software developer with a love for creating meaningful and inno
 ## 🚀 About Me
 
 - 🌱 I'm currently exploring new technologies and frameworks.
-- 📚 Continuous learner and open source enthusiast.
+- 📚 Continuous learner and open source enthusiast.<br>
+![](https://komarev.com/ghpvc/?username=Pawanhirumina&style=for-the-badge)
 
 ## 🔧 Technologies & Tools
 
