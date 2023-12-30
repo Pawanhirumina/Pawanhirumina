@@ -15,13 +15,7 @@ I'm a passionate software developer with a love for creating meaningful and inno
 
 ## 📈 GitHub Stats
 
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pawanhirumina&show_icons=true&count_private=true&hide=contribs,prs)
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Portfolio](https://www.yourportfolio.com)
+![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pawanhirumina&show_icons=true&count_private=true&hide=contribs,prs,toplanguages)
 
 ## 🌟 Featured Projects
 
